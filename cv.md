@@ -9,9 +9,9 @@
     <div>
       <nav>
         <ul>
-          <li><a href="">https://t.me/@atrilov</a> Telegram</li>
-          <li><a href="">https://vk.com/djkaban88</a> VK</li>
-          <li><a href="">https://github.com/atrilov</a> GitHub</li>
+          <li><a href="https://t.me/@atrilov"> Telegram</a></li>
+          <li><a href="https://vk.com/djkaban88"> VK</a></li>
+          <li><a href="https://github.com/atrilov"> GitHub</a></li>
         </ul>
       </nav>
     </div>
